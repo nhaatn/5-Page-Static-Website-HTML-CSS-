@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/contact-style.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+    crossorigin="anonymous" />
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@500&family=Roboto+Condensed&display=swap"
+    rel="stylesheet">
+  <!-- 
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+   -->
+
+  <title>Contact Page</title>
+</head>
+<body>
+
+  <div class="contact-wrapper">
+
+    <header>
+      <nav class="nav-bar">
+        <a href="index.html" class="brand"><span>Red</span>line</a>
+        <ul class="nav-links">
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="login.html">Login</a></li>
+          <li><a href="register.html" class="register-btn">Register</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="meet-team">
+
+      <h1>M<span class="underline">eet The Tea</span>m</h1>
+
+      <!-- Container holding ALL CARDS -->
+      <div class="card-container">
+
+        <!-- Card 1 -->
+        <div class="card1">
+          <div class="card1-image"></div>
+          <div class="card1-text">
+            <h2>Russell Williams</h2>
+            <p class="job-title">Manager</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis ratione laudantium et, soluta
+              obcaecati iste ipsum odio quas voluptates eveniet?</p>
+          </div>
+
+          <div class="card1-icon">
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-square"></i>
+          </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card2">
+          <div class="card2-image"></div>
+          <div class="card2-text">
+            <h2>Caitlyn Smith</h2>
+            <p class="job-title">Receptionist</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis ratione laudantium et, soluta
+              obcaecati iste ipsum odio quas voluptates eveniet?</p>
+          </div>
+
+          <div class="card2-icon">
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-square"></i>
+          </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card3">
+          <div class="card3-image"></div>
+          <div class="card3-text">
+            <h2>Austin Rivers</h2>
+            <p class="job-title">Sales Lead</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis ratione laudantium et, soluta
+              obcaecati iste ipsum odio quas voluptates eveniet?</p>
+          </div>
+
+          <div class="card3-icon">
+            <i class="fab fa-twitter"></i>
+            <i class="fab fa-instagram"></i>
+            <i class="fab fa-facebook-square"></i>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Contact Form TITLE -->
+      <h2 class="message-title">Leave Us A Message!</h2>
+      
+      <!-- Contact Form -->
+      <form action="https://formspree.io/f/mqkgewra" method="POST">
+          <div>
+              <input type="text" id="fname" name="fullName" placeholder="What is your full name?" >
+          </div>
+          <div>
+              <input type="email" id="email" name="email" placeholder="What is your email?">
+          </div>
+          <div>
+              <textarea name="message" id="message" cols="30" rows="10" placeholder="Leave your message here"></textarea>
+          </div>
+          <div>
+            <input type="submit" value="Send" class="contact-submit-btn">
+          </div>
+      </form>
+
+    </section>
+
+    <!-- Footer AREA -->
+    <footer>
+     Redline &copy; 2020
+   </footer>
+
+  </div>
+
+</body>
+</html>
