@@ -3,7 +3,10 @@
 ## by Nhat Nguyen
 
 ### Link to GH Pages
-- https://nhaatn.github.io/cpnt260-a3/
+- https://nhaatn.github.io/cpnt260-final/
+
+### Link to GH Repo
+- https://github.com/nhaatn/cpnt260-final
 
 ### These are the links for the webkit sources used
 - https://stackoverflow.com/questions/27959846/webkit-input-placeholder-does-not-work/27960012
