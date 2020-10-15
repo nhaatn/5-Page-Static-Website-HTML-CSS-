@@ -3,12 +3,9 @@
 ## by Nhat Nguyen
 
 ### Link to GH Pages
-<<<<<<< HEAD
 - https://nhaatn.github.io/cpnt260-final/
 
 ### Link to GH Repo
-=======
->>>>>>> bbbda863f49f97f82b99de819938f939cabde1f6
 - https://github.com/nhaatn/cpnt260-final
 
 ### These are the links for the webkit sources used
