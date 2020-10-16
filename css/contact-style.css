@@ -9,6 +9,12 @@ html {
   font-size: 10px;
 }
 
+/* Get rid of border on fieldset */
+fieldset {
+  border: 0;
+  margin-top: 15rem;
+}
+
 /* Content wrapper to have BG as full viewport */
 .contact-wrapper {
   height: 100%;
@@ -147,6 +153,7 @@ html {
 /* Form title (under the cards) styling */
 .meet-team .message-title {
   color: white;
+  text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 3.5rem;
 
@@ -213,11 +220,16 @@ form div {
    color: crimson;
  }
 
+  /* FORM ACESSIBILITY (make label for forms not display as I want to keep the original design) */
+  .form-label {
+    display: none;
+  }
+
 
 /* RESPONSIVE styling */
 @media (max-width: 735px) {
   .contact-wrapper {
-    min-height: 280vh;
+    min-height: 100%;
   }
 
   .card-container {
@@ -239,5 +251,9 @@ form div {
 
   .meet-team .contact-submit-btn {
     width: 50%;
+  }
+
+  fieldset {
+    margin-top: 7rem;
   }
 }

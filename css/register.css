@@ -136,6 +136,11 @@ form {
    color: crimson;
  }
 
+ /* FORM ACESSIBILITY (make label for forms not display as I want to keep the original design) */
+ .form-label {
+   display: none;
+ }
+
 /* RESPONSIVE */
  @media (max-width: 735px) {
   form {
