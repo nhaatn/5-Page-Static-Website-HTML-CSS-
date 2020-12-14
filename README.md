@@ -1,15 +1,7 @@
-# CPNT-260
-## Final Project: 5 Page Website
-## by Nhat Nguyen
+## 5 Page Static Website (HTML & CSS)
 
 ### Link to GH Pages
 - https://nhaatn.github.io/cpnt260-final/
-
-### Link to GH Repo
-- https://github.com/nhaatn/cpnt260-final
-
-### These are the links for the webkit sources used
-- https://stackoverflow.com/questions/27959846/webkit-input-placeholder-does-not-work/27960012
 
 ### Background image 
 - https://wallpaperaccess.com/audi-4k
@@ -27,6 +19,3 @@
 - car-7: https://unsplash.com/photos/ZRns2R5azu0
 - car-8: https://unsplash.com/photos/yq-efMJMuPg
 - car-9: https://unsplash.com/photos/3akA0XDg1_g
-
-### Additional help from:
-- Emil Joseph 
