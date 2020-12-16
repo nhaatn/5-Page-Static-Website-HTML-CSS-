@@ -1,7 +1,7 @@
 ## 5 Page Static Website (HTML & CSS)
 
 ### Link to GH Pages
-- https://nhaatn.github.io/cpnt260-final/
+- https://nhaatn.github.io/5-Page-Static-Website-HTML-CSS-/
 
 ### Background image 
 - https://wallpaperaccess.com/audi-4k
