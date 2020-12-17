@@ -1,7 +1,10 @@
-## 5 Page Static Website (HTML & CSS)
+# Redline - Static Website (HTML & CSS)
+
+## Summary
+- A static website that includes a gallery, contacts, login, and register. Flexbox and grid are used throughout the website.
 
 ### Link to GH Pages
-- https://nhaatn.github.io/5-Page-Static-Website-HTML-CSS-/
+- https://nhaatn.github.io/RedLine/
 
 ### Background image 
 - https://wallpaperaccess.com/audi-4k
